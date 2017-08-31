@@ -89,5 +89,5 @@ require_once("Machine/Machine.php");
 
 
 $machine = new Machine();
-
-
+ 
+echo "hello AI
